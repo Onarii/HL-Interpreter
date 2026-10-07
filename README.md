@@ -17,3 +17,7 @@ python HLInt_simple.py PROG1.HL
 - PROG1.HL, PROG2.HL, PROG3.HL: sample HL programs
 - NOSPACES.TXT: source code with spaces removed
 - RES_SYM.TXT: reserved words and symbols found
+
+## Video Link
+(File is too large to upload to Github)
+-- https://mymailmapuaedu-my.sharepoint.com/:v:/g/personal/azmcastro_mymail_mapua_edu_ph/IQDzvdkZskV-SbedU5203gw_AUgv-hJGQOxS2lESm0zc94Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pZzboo
