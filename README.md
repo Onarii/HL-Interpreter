@@ -18,5 +18,4 @@ python HLInt_simple.py PROG1.HL
 ## Video Link
 (File is too large to upload to Github)
 
-## Video
 https://mymailmapuaedu-my.sharepoint.com/:v:/g/personal/azmcastro_mymail_mapua_edu_ph/IQDzvdkZskV-SbedU5203gw_AUgv-hJGQOxS2lESm0zc94Y?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pZzboo
