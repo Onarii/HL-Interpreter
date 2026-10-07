@@ -1,5 +1,5 @@
 x:integer;
-y:double;
-x:=3;
-if(x<5)
-output<<x;
+x:=3
+output<<"helloworld";
+if(x<5
+output<<y;
